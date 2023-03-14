@@ -1,5 +1,5 @@
 module.exports = {
-  name: "easykids-wifi-v2",
+  name: "EasyKids_WiFi_V2",
   vendor: "EasyKidsRobotics",
   platform: "arduino-esp32",
   title: "EasyKids-WiFi Board V2",
@@ -9,5 +9,5 @@ module.exports = {
   email: "easykidsrobotics@gmail.com",
   git: "https://github.com/EasykidsRobotics/EasyKids_WiFi_V2/",
   image: "/static/display.jpg",
-  version: "0.0.1",
+  version: "0.0.2",
 };
