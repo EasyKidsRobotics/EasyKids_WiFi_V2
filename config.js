@@ -7,7 +7,7 @@ module.exports = {
   author: "EasyKidsRobotics",
   website: "https://www.facebook.com/EasyKidsRobotics/",
   email: "easykidsrobotics@gmail.com",
-  git: "https://github.com/EasykidsRobotics/easykids-wifi/",
+  git: "https://github.com/EasykidsRobotics/EasyKids_WiFi_V2/",
   image: "/static/display.jpg",
   version: "0.0.1",
 };
