@@ -1,5 +1,5 @@
-C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\Sprite.o: \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include\Extensions\Sprite.cpp \
+C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\Sprite.o: \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include\Extensions\Sprite.cpp \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Arduino.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/stdint.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/machine/_default_types.h \
@@ -127,23 +127,23 @@ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\b
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/IPAddress.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/HardwareSerial.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Esp.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/pins_arduino.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/TFT_eSPI.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/User_Setup_Select.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/User_Setup.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/User_Setups/Setup24_ST7789_ESP32.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/TFT_Drivers/ST7789_Defines.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/glcdfont.c \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font16.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font16.c \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font32rle.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font32rle.c \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font64rle.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font64rle.c \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font7srle.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font7srle.c \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font72rle.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Font72rle.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/pins_arduino.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/TFT_eSPI.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/User_Setup_Select.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/User_Setup.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/User_Setups/Setup24_ST7789_ESP32.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/TFT_Drivers/ST7789_Defines.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/glcdfont.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font16.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font16.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font32rle.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font32rle.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font64rle.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font64rle.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font7srle.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font7srle.c \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font72rle.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Font72rle.c \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Print.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\libraries_include/SPI.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/esp32-hal-spi.h \
@@ -151,57 +151,57 @@ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\b
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\libraries_include/FS.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\libraries_include/SPIFFS.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\libraries_include/FS.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/GFXFF/gfxfont.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/User_Setups/User_Custom_Fonts.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Orbitron_Light_24.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Orbitron_Light_32.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Roboto_Thin_24.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Satisfy_24.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Yellowtail_32.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew8pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew9pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew10pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew12pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew14pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew16pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNew18pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew8pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew9pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew10pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew12pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew14pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew16pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNew18pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold8pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold9pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold10pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold12pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold14pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold16pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/THSarabunNewBold18pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold8pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold9pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold10pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold12pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold14pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold16pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/ENSarabunNewBold18pt7b.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-9-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-12-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-18-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-24-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-9-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-12-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-18-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Regular-24-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-9-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-12-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-18-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-24-en.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-9-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-12-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-18-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Fonts/Custom/Kanit-Bold-24-th.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Extensions/Smooth_font.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Extensions/Button.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Extensions/Sprite.h
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/GFXFF/gfxfont.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/User_Setups/User_Custom_Fonts.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Orbitron_Light_24.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Orbitron_Light_32.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Roboto_Thin_24.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Satisfy_24.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Yellowtail_32.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew8pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew9pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew10pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew12pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew14pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew16pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNew18pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew8pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew9pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew10pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew12pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew14pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew16pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNew18pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold8pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold9pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold10pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold12pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold14pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold16pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/THSarabunNewBold18pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold8pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold9pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold10pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold12pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold14pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold16pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/ENSarabunNewBold18pt7b.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-9-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-12-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-18-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-24-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-9-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-12-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-18-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Regular-24-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-9-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-12-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-18-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-24-en.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-9-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-12-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-18-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Fonts/Custom/Kanit-Bold-24-th.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Extensions/Smooth_font.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Extensions/Button.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Extensions/Sprite.h

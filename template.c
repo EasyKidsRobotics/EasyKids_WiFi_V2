@@ -42,13 +42,13 @@ Servo2.attach(21);
 Servo3.attach(5);
 Servo4.attach(25);
 
-ledcSetup(_MotorA_ch, 75, 8);
+ledcSetup(_MotorA_ch, 1000, 8);
 ledcAttachPin(_EN_A, _MotorA_ch);
-ledcSetup(_MotorB_ch, 75, 8);
+ledcSetup(_MotorB_ch, 1000, 8);
 ledcAttachPin(_EN_B, _MotorB_ch);
-ledcSetup(_MotorC_ch, 75, 8);
+ledcSetup(_MotorC_ch, 1000, 8);
 ledcAttachPin(_EN_C, _MotorC_ch);
-ledcSetup(_MotorD_ch, 75, 8);
+ledcSetup(_MotorD_ch, 1000, 8);
 ledcAttachPin(_EN_D, _MotorD_ch);
   ${SETUP_CODE}
   ${BLOCKSETUP}

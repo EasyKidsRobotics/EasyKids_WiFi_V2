@@ -137,6 +137,47 @@ module.exports = function (Blockly) {
     // TODO: Assemble JavaScript into code variable.
     var code =
       `
+      #SETUP
+      tft.begin();
+      tft.setRotation(0);
+      tft.fillScreen(0xffff);
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(65, 65);
+      tft.setTextColor(0x367f);
+      tft.println(String("ROBOT "));
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(65, 62);
+      tft.setTextColor(0x319f);
+      tft.println(String("ROBOT "));
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(80, 110);
+      tft.setTextColor(0x9cdf);
+      tft.println(String("WiFi"));
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(80, 107);
+      tft.setTextColor(0x6019);
+      tft.println(String("WiFi"));
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(43, 150);
+      tft.setTextColor(0xfcdf);
+      tft.println(String("Control"));
+    
+      // tft.setTextFont(GLCD);
+      tft.setTextSize(4);
+      tft.setCursor(43, 147);
+      tft.setTextColor(0xf800);
+      tft.println(String("Control"));
+      #END
       RemoteXY_Handler();
       if (remote_xy_Read(6) > 50) {
         speedm = 50;
@@ -155,16 +196,6 @@ module.exports = function (Blockly) {
       } else if (remote_xy_Read(9) > 50) {
         m1 = 50;
         m1 = map(m1, 0, 100, 0, 255);
-        ledcWrite(_MotorA_ch, m1);
-        ledcWrite(_MotorB_ch, 0);
-        ;
-        m2 = 50;
-        m2 = map(m2, 0, 100, 0, 255);
-        ledcWrite(_MotorC_ch, m2);
-        ledcWrite(_MotorD_ch, 0);
-      } else if (remote_xy_Read(9) < -50) {
-        m1 = 50;
-        m1 = map(m1, 0, 100, 0, 255);
         ledcWrite(_MotorA_ch, 0);
         ledcWrite(_MotorB_ch, m1);
         ;
@@ -172,6 +203,16 @@ module.exports = function (Blockly) {
         m2 = map(m2, 0, 100, 0, 255);
         ledcWrite(_MotorC_ch, 0);
         ledcWrite(_MotorD_ch, m2);
+      } else if (remote_xy_Read(9) < -50) {
+        m1 = 50;
+        m1 = map(m1, 0, 100, 0, 255);
+        ledcWrite(_MotorA_ch, m1);
+        ledcWrite(_MotorB_ch, 0);
+        ;
+        m2 = 50;
+        m2 = map(m2, 0, 100, 0, 255);
+        ledcWrite(_MotorC_ch, m2);
+        ledcWrite(_MotorD_ch, 0);
       } else {
         ledcWrite(_MotorA_ch, 255);
         ledcWrite(_MotorB_ch, 255);

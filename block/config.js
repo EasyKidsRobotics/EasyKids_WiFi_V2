@@ -8,6 +8,9 @@ module.exports = {
             icon: `file:///${dirIcon}/static/icons/RGB.png`,
             blocks: [
                 {
+                    xml: `<sep gap="32"></sep><label text="NeoPixel" web-class="headline"></label>`
+                },
+                {
                     xml:
                         `<block type="neopixel_rgb_begin">
                   <value name="PIN">
@@ -119,7 +122,7 @@ module.exports = {
             icon: `file:///${dirIcon}/static/icons/LCDdisplay.PNG`,
             blocks: [
                 {
-                    xml: `<sep gap="32"></sep><label text="LCD TFT 1.54 inch 240x240 Pixels" web-class="headline"></label>`
+                    xml: `<sep gap="32"></sep><label text="LCD TFT 240x240 Pixels" web-class="headline"></label>`
                 },
                 {
                     xml: `<block type="variables_set">
@@ -305,7 +308,7 @@ module.exports = {
             icon: `file:///${dirIcon}/static/icons/REMOTE.png`,
             blocks: [
                 {
-                    xml: `<sep gap="32"></sep><label text="RemoteXY:App" web-class="headline"></label>`
+                    xml: `<sep gap="32"></sep><label text="RemoteXY: Application" web-class="headline"></label>`
                 },
                 "remote_xy_begin",
                 "remote_xy_robot_run",
@@ -315,7 +318,7 @@ module.exports = {
         },
 
         {
-            name: "EasyKids-WiFi",
+            name: "EasyKids WiFi V2",
             color: "58",
             icon: `file:///${dirIcon}/static/icons/easy.png`, 
             blocks: [

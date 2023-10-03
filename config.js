@@ -9,5 +9,5 @@ module.exports = {
   email: "easykidsrobotics@gmail.com",
   git: "https://github.com/EasykidsRobotics/EasyKids_WiFi_V2/",
   image: "/static/display.jpg",
-  version: "0.0.2",
+  version: "2.0",
 };

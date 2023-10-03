@@ -1,4 +1,4 @@
-C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\MQTT.o: \
+C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\MQTT.o: \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\MQTT.cpp \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\MQTT.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/stdint.h \

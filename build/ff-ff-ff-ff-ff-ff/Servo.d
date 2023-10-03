@@ -1,6 +1,6 @@
-C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\Servo.o: \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include\Servo.cpp \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/Servo.h \
+C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\Servo.o: \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include\Servo.cpp \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/Servo.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Arduino.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/stdint.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/machine/_default_types.h \
@@ -128,4 +128,4 @@ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\b
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/IPAddress.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/HardwareSerial.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Esp.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/pins_arduino.h
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/pins_arduino.h

@@ -1,4 +1,4 @@
-C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\PubSubClient.o: \
+C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\PubSubClient.o: \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\PubSubClient.cpp \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\PubSubClient.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/pgmspace.h \
@@ -110,6 +110,6 @@ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\b
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/IPAddress.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/HardwareSerial.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Esp.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/pins_arduino.h \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/pins_arduino.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\include\MQTT.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Client.h

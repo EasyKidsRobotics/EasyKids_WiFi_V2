@@ -1,5 +1,5 @@
-C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\main.o: \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\build\ff-ff-ff-ff-ff-ff\main.cpp \
+C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\main.o: \
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\build\ff-ff-ff-ff-ff-ff\main.cpp \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\inc/freertos/FreeRTOS.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/sys/reent.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\sdk\include\newlib/_ansi.h \
@@ -128,4 +128,4 @@ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\b
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/IPAddress.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/HardwareSerial.h \
  C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\platforms\arduino-esp32\lib\include/Esp.h \
- C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\easykids-wifi-v2\include/pins_arduino.h
+ C:\Users\EasyKidsRobotics\AppData\Local\Programs\kbide\boards\EasyKids_WiFi_V2\include/pins_arduino.h
